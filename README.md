@@ -1,2 +1,2 @@
 # hello-world
-This repository is designed to help you practice your GitHub Flow skills.
+This repository is designed to help you practice your GitHub Flow skills. It provides a simple and structured environment where you can learn how to work with branches, create pull requests, review changes, and merge updates into the main project. By experimenting with this repository, you can safely explore different parts of the GitHub workflow, improve your understanding of collaborative development, and build confidence before working on real projects or contributing to open-source.
